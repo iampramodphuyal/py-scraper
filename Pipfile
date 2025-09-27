@@ -10,8 +10,8 @@ lxml = "*"
 html2text = "*"
 asyncio = "*"
 tenacity = "*"
-httpx = "*"
 playwright = "*"
+httpx = {extras = ["http2"], version = "*"}
 
 [dev-packages]
 
