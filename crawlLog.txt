@@ -1,0 +1,4 @@
+[2025-09-26 23:07:50] [INFO] Found: 1 urls to process.
+[2025-09-26 23:07:50] [INFO] Processing URL(0):https://prettyclickcosmetics.com/
+[2025-09-26 23:07:50] [INFO] Processing Url: https://prettyclickcosmetics.com/
+[2025-09-26 23:07:50] [INFO] [scrape_url] | Processing To collect via normal request, URL: https://prettyclickcosmetics.com/
